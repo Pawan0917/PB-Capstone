@@ -2,6 +2,7 @@
 
 ## Overview
 
+
 PB Capstone is a sample application repository used to demonstrate ELITEA automated documentation synchronization.
 
 ## Technology
